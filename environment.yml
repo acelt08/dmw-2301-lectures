@@ -16,6 +16,9 @@ dependencies:
   - seaborn=0.13.2
   - xlrd=2.0.2
   - pytest=9.0.2
+  - sqlalchemy=2.0.45
+  - html5lib=1.1
+  - python-dotenv=1.2.1
   - pip:
     - jupyter-contrib-nbextensions
     - ipywidgets==8.1.8

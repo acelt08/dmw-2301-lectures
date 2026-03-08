@@ -1,0 +1,11 @@
+h1#main-title {
+  font-size: 20px;
+}
+
+div.content {
+  color: green;
+}
+
+.content[data="1.5"] {
+  color: red;
+}
